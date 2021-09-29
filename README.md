@@ -5,7 +5,7 @@
 > 나이 : 23  
 > Email : rjsals0328@naver.com  
 ###  
-![dog](/자기소개용 사진1.PNG)
+![dog](/photo1.PNG)
 ------
 ### 학력  
 ||내용|
